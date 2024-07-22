@@ -22,6 +22,9 @@ setResult("");
   return (
     // this is calculator
     <>
+    <div className='heading mt-3'>
+    <h1>Calculator</h1>
+    </div>
 <div className="container">
     <form>
         <input type="text"  value={result}/>

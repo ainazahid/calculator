@@ -10,8 +10,8 @@ body{
     align-items: center;
 }
 .container{
-top: 50%;
-left: 50%;
+top: 20%;
+left: 40%;
 position: absolute;
 transform: trnaslate(-50%, -50%);
 margin: 0 auto;
